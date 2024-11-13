@@ -77,5 +77,6 @@ def load_products():
             "https://cdn.tgdd.vn/Products/Images/42/251192/iphone-14-pro-max-tim-thumb-600x600.jpg",
         "category_id": 1
     }]
+        return data
 
 
